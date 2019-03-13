@@ -1,2 +1,4 @@
-# currency-converter
-Currency converter
+# Currency converter
+```
+composer require chehivskiy/currency-converter
+```
