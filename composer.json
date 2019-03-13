@@ -1,0 +1,12 @@
+{
+    "name": "chehivskiy/currency-converter",
+    "description": "Currency converter",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Michael Chehivskiy",
+            "email": "michael.chehivskiy@gmail.com"
+        }
+    ],
+    "require": {}
+}
